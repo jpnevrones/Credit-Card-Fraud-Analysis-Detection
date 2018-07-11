@@ -6,10 +6,9 @@ Credit Card Fraud Detection- Anonymized credit card transactions labeled as frau
 Project Summary 
 - [Summary of project]() - All summed up in one place
 - [Exploratory Data Analysis]
-    - EDA 1
-    - EDA 2
-- [Models]
+- Models
     - Logistic Regression
     - Support vector Machine
     - Decission Tree
     - Autoencoder 
+- Results
